@@ -1,5 +1,4 @@
 # Space Invaders
-
 A classic Space Invaders game built with GoLang and the Ebitengine game engine.
 
 ## Features
@@ -36,3 +35,10 @@ To run the game:
 ```bash
 ./space-invaders
 ```
+
+### Project Structure
+
+- `main.go` - Entry point and main game loop
+- `entities/` - Player, aliens, and bullet entities
+- `game/` - Game state management
+- `collision/` - Collision detection logic
