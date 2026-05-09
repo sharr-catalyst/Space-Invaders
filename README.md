@@ -1,6 +1,8 @@
 # Space Invaders
 A classic Space Invaders game built with GoLang and the Ebitengine game engine.
 
+![Space Invaders Gameplay](screenshots/gameplay.png)
+
 ## Features
 - Classic arcade gameplay
 - Multiple levels with increasing difficulty
