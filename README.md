@@ -1,5 +1,6 @@
 # Space Invaders
 [![Go](https://img.shields.io/badge/Go-1.22+-blue.svg)](https://golang.org/dl/)
+
 A classic Space Invaders game built with GoLang and the Ebitengine game engine.
 
 ![Space Invaders Gameplay](screenshots/home.png)
